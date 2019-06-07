@@ -10,14 +10,27 @@ Here you will find experiments in design geometry, parametric modeling, digital 
 
 ---
 
-## 001 Simple Truss
+## 002 Simple Truss
 
 Drawing a simple truss
 
-![](001SimpleTruss/simpleTruss.gif)
+![](models/002_simpleTruss/002trussSimple.gif)
 
 Environment - rhinoceros + grasshopper
 
 Language    - python
 
 ---
+
+## 001 Simple Truss
+
+Drawing a simple truss
+
+![](models/001_simpleTruss/simpleTruss.gif)
+
+Environment - rhinoceros + grasshopper
+
+Language    - python
+
+---
+
