@@ -10,6 +10,18 @@ Here you will find experiments in design geometry, parametric modeling, digital 
 
 ---
 
+## 003 Space Truss
+
+Drawing a space truss
+
+![](models/003_spaceTruss/003_spaceTruss.gif)
+
+Environment - rhinoceros + grasshopper
+
+Language    - python
+
+---
+
 ## 002 Simple Truss
 
 Drawing a simple truss
